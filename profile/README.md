@@ -1,12 +1,13 @@
-## Hi there 👋
+# spice.cloud
 
-<!--
+## Hi, we're 👋
 
-**Here are some ideas to get you started:**
+[spice.cloud](https://spice.cloud). We're building the communities distributed machine learning super computer.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Get in touch with us!
+
+Twitter: [@d_j_stein](https://twitter.com/d_j_stein)
+
+Email: [dylan@spice.cloud](mailto:dylan@spice.cloud)
+&
+[ankush@spice.cloud](mailto:ankush@spice.cloud)
